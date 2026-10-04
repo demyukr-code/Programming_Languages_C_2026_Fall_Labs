@@ -24,7 +24,6 @@ int main(void) {
     return 0;
 }
 
-// Implement functions below
 int array_min(int arr[], int size) {
     int min = arr[0];
 
