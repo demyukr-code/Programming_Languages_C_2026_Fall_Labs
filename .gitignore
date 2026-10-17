@@ -16,3 +16,9 @@ bin/
 Thumbs.db
 .vscode/settings.json
 Makefile copy
+
+# Lab 5
+data.txt
+student.txt
+students.txt
+student.bin
